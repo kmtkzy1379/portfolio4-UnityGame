@@ -12,7 +12,7 @@ public class Enemy : MonoBehaviour
 
     public GameObject Target { get; private set; }
 
-    public EnemyHealthGuage healthGauge;
+    public EnemyHealthGauge healthGauge;
     private Rigidbody Rbody;
 
     void Start()

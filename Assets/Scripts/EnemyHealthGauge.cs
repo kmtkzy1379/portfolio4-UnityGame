@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening;
 
-public class EnemyHealthGuage : MonoBehaviour
+public class EnemyHealthGauge : MonoBehaviour
 {
     // メインカメラのTransformをキャッシュするための変数
     private Transform mainCameraTransform;
